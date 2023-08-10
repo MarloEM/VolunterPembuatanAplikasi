@@ -235,6 +235,7 @@ Berikut daftar Volunter yang diterima:
 * M. Safii, [GitHub](https://github.com/msafii85).
 * Mar Atun Nabilah Chaniago, [LinkedIn](https://www.linkedin.com/in/mar-atun-nabilah-chaniago-928b72217/).
 * Marchelia Naba, [LinkedIn](https://www.linkedin.com/in/marchelianaba/).
+* Marlo Emiliano Muktiono, [LinkedIn](https://www.linkedin.com/in/marlo-emiliano-muktiono-072232237/).
 * Marvel Natanael S, [GitHub](https://www.github.com/marvel-natanael).
 * Mas 'Edi, [GitHub](https://github.com/eldy54).
 * Masrizal Eka Yulianto, [LinkedIn](https://www.linkedin.com/in/masrizaleka/).
